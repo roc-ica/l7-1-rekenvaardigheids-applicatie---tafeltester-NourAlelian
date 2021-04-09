@@ -1,0 +1,6 @@
+C:\Users\noura\OneDrive\Debugger\C#\TafelTester_Nour\TafelTester_Nour\obj\Debug\TafelTester_Nour_yy05dssh_wpftmp.csprojAssemblyReference.cache
+C:\Users\noura\OneDrive\Debugger\C#\TafelTester_Nour\TafelTester_Nour\obj\Debug\TafelTester_Nour.Properties.Resources.resources
+C:\Users\noura\OneDrive\Debugger\C#\TafelTester_Nour\TafelTester_Nour\obj\Debug\TafelTester_Nour_yy05dssh_wpftmp.csproj.GenerateResource.cache
+C:\Users\noura\OneDrive\Debugger\C#\TafelTester_Nour\TafelTester_Nour\obj\Debug\TafelTester_Nour_yy05dssh_wpftmp.csproj.CoreCompileInputs.cache
+C:\Users\noura\OneDrive\Debugger\C#\TafelTester_Nour\TafelTester_Nour\obj\Debug\TafelTester_Nour.exe
+C:\Users\noura\OneDrive\Debugger\C#\TafelTester_Nour\TafelTester_Nour\obj\Debug\TafelTester_Nour.pdb
